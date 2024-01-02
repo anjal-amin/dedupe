@@ -1,4 +1,4 @@
-[![LinkedIn](https://raw.githubusercontent.com/terrytangyuan/terrytangyuan/master/imgs/linkedin.svg)](https://www.linkedin.com/in/terrytangyuan)
+[![LinkedIn](https://raw.githubusercontent.com/terrytangyuan/terrytangyuan/master/imgs/linkedin.svg)](https://www.linkedin.com/in/anjalamin)
 
 This notebook demonstrates how to create a machine learning model trained on Jaccard's Index so we can quickly and accurately determine how similar the input text compares to stored text.
 
