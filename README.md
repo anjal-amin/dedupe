@@ -1,4 +1,3 @@
-```markdown
 # Near Duplicate Detection using Jaccard's Index
 
 This Jupyter notebook demonstrates how to create a machine learning model trained on Jaccard's Index. The goal is to quickly and accurately determine how similar input text compares to stored text. The definition of "duplicate" includes similarity in words, sentences, or paragraphs even if they have been rearranged.
