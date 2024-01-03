@@ -1,5 +1,3 @@
-Sure, here's a basic `readme.md` file for your Jupyter notebook:
-
 ```markdown
 # Near Duplicate Detection using Jaccard's Index
 
@@ -21,11 +19,4 @@ pip install nltk
 3. The model is trained using a K-Nearest Neighbors Regressor.
 4. Mean Squared Error is calculated for evaluation.
 
-Feel free to customize the notebook for your specific use case.
-
-## Author
-This notebook is authored by [Author's Name].
-
-```
-
-Please replace `[Author's Name]` with the appropriate author information.
+Feel free to customize the notebook for your specific use.
